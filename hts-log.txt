@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Jul 2024 12:19:37 at https://tamalsen.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tamalsen.dev/ -O1 "D:\new-22-24" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:20:26	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://tamalsen.dev/)
+12:20:44	Warning: 	Link https://tamalsen.dev/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:20:44	Error: 	"Not Found" (404) at link tamalsen.dev/wp-content/themes/ohio/images/bg-full.jpg (from https://tamalsen.dev/wp-content/cache/autoptimize/css/autoptimize_4495385686853ab78c48d1389e3a5aa0.css)
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218124
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218124 to https://tamalsen.dev/project/tryotel-cross-platform-travel-app/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218031
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218031 to https://tamalsen.dev/project/flight-local/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218022
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218022 to https://tamalsen.dev/project/ai-lab-granada/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=217971
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=217971 to https://tamalsen.dev/project/khora-urban-thinkers/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=217975
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=217975 to https://tamalsen.dev/project/tapy/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=217980
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=217980 to https://tamalsen.dev/project/walkerip/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218041
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218041 to https://tamalsen.dev/project/tryotel-web-b2c/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218006
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218006 to https://tamalsen.dev/project/kananaskis-nordic-spa-website/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=217988
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=217988 to https://tamalsen.dev/project/a-higher-thought/
+12:20:47	Warning: 	Moved Permanently for https://tamalsen.dev/?p=218037
+12:20:47	Warning: 	File has moved from https://tamalsen.dev/?p=218037 to https://tamalsen.dev/project/all-the-roads-of-chittagong/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 116 links scanned, 102 files written (21946743 bytes overall) [16382069 bytes received at 221379 bytes/sec], 7407323 bytes transferred using HTTP compression in 47 files, ratio 23%, 6.2 requests per connection
+(2 errors, 21 warnings, 0 messages)
